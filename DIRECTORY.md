@@ -25,6 +25,7 @@
   * [IntegerToRoman](https://github.com/TheAlgorithms/Java/blob/master/Conversions/IntegerToRoman.java)
   * [OctalToDecimal](https://github.com/TheAlgorithms/Java/blob/master/Conversions/OctalToDecimal.java)
   * [OctalToHexadecimal](https://github.com/TheAlgorithms/Java/blob/master/Conversions/OctalToHexadecimal.java)
+  * [RgbHsvConversion](https://github.com/TheAlgorithms/Java/blob/master/Conversions/RgbHsvConversion.java)
   * [RomanToInteger](https://github.com/TheAlgorithms/Java/blob/master/Conversions/RomanToInteger.java)
 
 ## DataStructures
@@ -129,9 +130,15 @@
   * [Average](https://github.com/TheAlgorithms/Java/blob/master/Maths/Average.java)
   * [BinaryPow](https://github.com/TheAlgorithms/Java/blob/master/Maths/BinaryPow.java)
   * [Ceil](https://github.com/TheAlgorithms/Java/blob/master/Maths/Ceil.java)
+  * [CircularConvolutionFFT](https://github.com/TheAlgorithms/Java/blob/master/Maths/CircularConvolutionFFT.java)
   * [Combinations](https://github.com/TheAlgorithms/Java/blob/master/Maths/Combinations.java)
+  * [Convolution](https://github.com/TheAlgorithms/Java/blob/master/Maths/Convolution.java)
+  * [ConvolutionFFT](https://github.com/TheAlgorithms/Java/blob/master/Maths/ConvolutionFFT.java)
+  * [EulerMethod](https://github.com/TheAlgorithms/Java/blob/master/Maths/EulerMethod.java)
   * [Factorial](https://github.com/TheAlgorithms/Java/blob/master/Maths/Factorial.java)
   * [FactorialRecursion](https://github.com/TheAlgorithms/Java/blob/master/Maths/FactorialRecursion.java)
+  * [FFT](https://github.com/TheAlgorithms/Java/blob/master/Maths/FFT.java)
+  * [FFTBluestein](https://github.com/TheAlgorithms/Java/blob/master/Maths/FFTBluestein.java)
   * [FibonacciNumber](https://github.com/TheAlgorithms/Java/blob/master/Maths/FibonacciNumber.java)
   * [FindMax](https://github.com/TheAlgorithms/Java/blob/master/Maths/FindMax.java)
   * [FindMaxRecursion](https://github.com/TheAlgorithms/Java/blob/master/Maths/FindMaxRecursion.java)
@@ -165,6 +172,7 @@
   * [MinimizingLateness](https://github.com/TheAlgorithms/Java/blob/master/MinimizingLateness/MinimizingLateness.java)
 
 ## Misc
+  * [ColorContrastRatio](https://github.com/TheAlgorithms/Java/blob/master/Misc/ColorContrastRatio.java)
   * [MedianOfRunningArray](https://github.com/TheAlgorithms/Java/blob/master/Misc/MedianOfRunningArray.java)
   * [PalindromePrime](https://github.com/TheAlgorithms/Java/blob/master/Misc/PalindromePrime.java)
   * [RangeInSortedArray](https://github.com/TheAlgorithms/Java/blob/master/Misc/RangeInSortedArray.java)
@@ -185,9 +193,11 @@
   * [GuassLegendre](https://github.com/TheAlgorithms/Java/blob/master/Others/GuassLegendre.java)
   * [InsertDeleteInArray](https://github.com/TheAlgorithms/Java/blob/master/Others/InsertDeleteInArray.java)
   * [KMP](https://github.com/TheAlgorithms/Java/blob/master/Others/KMP.java)
+  * [KochSnowflake](https://github.com/TheAlgorithms/Java/blob/master/Others/KochSnowflake.java)
   * [Krishnamurthy](https://github.com/TheAlgorithms/Java/blob/master/Others/Krishnamurthy.java)
   * [LinearCongruentialGenerator](https://github.com/TheAlgorithms/Java/blob/master/Others/LinearCongruentialGenerator.java)
   * [LowestBasePalindrome](https://github.com/TheAlgorithms/Java/blob/master/Others/LowestBasePalindrome.java)
+  * [Mandelbrot](https://github.com/TheAlgorithms/Java/blob/master/Others/Mandelbrot.java)
   * [PasswordGen](https://github.com/TheAlgorithms/Java/blob/master/Others/PasswordGen.java)
   * [PerlinNoise](https://github.com/TheAlgorithms/Java/blob/master/Others/PerlinNoise.java)
   * [QueueUsingTwoStacks](https://github.com/TheAlgorithms/Java/blob/master/Others/QueueUsingTwoStacks.java)
@@ -254,6 +264,7 @@
   * [ShellSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/ShellSort.java)
   * [SortAlgorithm](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SortAlgorithm.java)
   * [SortUtils](https://github.com/TheAlgorithms/Java/blob/master/Sorts/SortUtils.java)
+  * [TimSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/TimSort.java)
 
 ## strings
   * [Alphabetical](https://github.com/TheAlgorithms/Java/blob/master/strings/Alphabetical.java)
